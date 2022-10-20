@@ -1,0 +1,29 @@
+.welcome-text{
+    position: absolute;
+    left: 92px;
+    top: 10px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #000000;
+
+    text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+.picture{
+
+    position: absolute;
+    
+    left: 765px;
+    top: 30px;
+    filter: drop-shadow(7px 7px 7px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+}
+
+.body{
+    background-color: darkseagreen;
+}
